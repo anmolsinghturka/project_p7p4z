@@ -1,0 +1,134 @@
+{
+    "inventory": [
+        {
+            "price": 80000,
+            "rating": 10,
+            "description": "Model Y",
+            "section": "EV",
+            "id": 1313,
+            "stock": 53,
+            "brand": "Tesla "
+        },
+        {
+            "price": 30000,
+            "rating": 678,
+            "description": "Model Y",
+            "section": "EV",
+            "id": 676,
+            "stock": 786,
+            "brand": "Tesla"
+        },
+        {
+            "price": 9,
+            "rating": 60,
+            "description": "Chocolate",
+            "section": "Food",
+            "id": 27432,
+            "stock": 78344,
+            "brand": "M&M"
+        },
+        {
+            "price": 999,
+            "rating": 88,
+            "description": "Bag",
+            "section": "clothing",
+            "id": 87628,
+            "stock": 784,
+            "brand": "Gucci"
+        },
+        {
+            "price": 888,
+            "rating": 88,
+            "description": "phone",
+            "section": "kdjv",
+            "id": 88,
+            "stock": 8887,
+            "brand": "Apple"
+        }
+    ],
+    "user": {
+        "purchases": [
+            {
+                "price": 80000,
+                "rating": 10,
+                "description": "Model Y",
+                "section": "EV",
+                "id": 1313,
+                "stock": 55,
+                "brand": "Tesla "
+            },
+            {
+                "price": 80000,
+                "rating": 10,
+                "description": "Model Y",
+                "section": "EV",
+                "id": 1313,
+                "stock": 54,
+                "brand": "Tesla "
+            },
+            {
+                "price": 888,
+                "rating": 88,
+                "description": "phone",
+                "section": "kdjv",
+                "id": 88,
+                "stock": 8887,
+                "brand": "Apple"
+            },
+            {
+                "price": 80000,
+                "rating": 10,
+                "description": "Model Y",
+                "section": "EV",
+                "id": 1313,
+                "stock": 53,
+                "brand": "Tesla "
+            },
+            {
+                "price": 354,
+                "rating": 30,
+                "description": "shoes",
+                "section": "clothing",
+                "id": 4334,
+                "stock": 4552,
+                "brand": "Adiddas"
+            },
+            {
+                "price": 888,
+                "rating": 88,
+                "description": "phone",
+                "section": "kdjv",
+                "id": 88,
+                "stock": 8885,
+                "brand": "Apple"
+            },
+            {
+                "price": 999,
+                "rating": 88,
+                "description": "Bag",
+                "section": "clothing",
+                "id": 87628,
+                "stock": 784,
+                "brand": "Gucci"
+            },
+            {
+                "price": 9,
+                "rating": 60,
+                "description": "Chocolate",
+                "section": "Food",
+                "id": 27432,
+                "stock": 78344,
+                "brand": "M&M"
+            }
+        ],
+        "cart": [{
+            "price": 9,
+            "rating": 60,
+            "description": "Chocolate",
+            "section": "Food",
+            "id": 27432,
+            "stock": 78344,
+            "brand": "M&M"
+        }]
+    }
+}

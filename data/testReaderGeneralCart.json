@@ -1,0 +1,54 @@
+{
+  "inventory": [
+    {
+      "price": 45.99,
+      "rating": 4,
+      "description": "Men's T-Shirt",
+      "section": "Clothing",
+      "id": 1,
+      "stock": 49,
+      "brand": "Nike"
+    },
+    {
+      "price": 5.99,
+      "rating": 4,
+      "description": "Hand Sanitizer",
+      "section": "Health",
+      "id": 2,
+      "stock": 499,
+      "brand": "P&G"
+    },
+    {
+      "price": 1499.99,
+      "rating": 4,
+      "description": "15 inch laptop",
+      "section": "Electronics",
+      "id": 3,
+      "stock": 5,
+      "brand": "Apple"
+    }
+  ],
+  "user": {
+    "purchases": [],
+    "cart": [
+      {
+        "price": 45.99,
+        "rating": 4,
+        "description": "Men's T-Shirt",
+        "section": "Clothing",
+        "id": 1,
+        "stock": 49,
+        "brand": "Nike"
+      },
+      {
+        "price": 5.99,
+        "rating": 4,
+        "description": "Hand Sanitizer",
+        "section": "Health",
+        "id": 2,
+        "stock": 499,
+        "brand": "P&G"
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d0232ac-aaff-41c9-9d47-2a5958dbd12c" name="Default Changelist" comment="Phase 4: Task 3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1isgKWgdXQ0mcDg5vMn0JKNp2rI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Harjasleen\Videos\CPSC220\project_p7p4z" />
+      <recent name="C:\Users\Harjasleen\Videos\CPSC220\project_p7p4z\lib" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="persistence" />
+      <recent name="ui" />
+      <recent name="model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Harjasleen\Videos\CPSC220\project_p7p4z\data" />
+      <recent name="C:\Users\Harjasleen\Videos\CPSC220\project_p7p4z\src\test\model" />
+      <recent name="C:\Users\Harjasleen\Videos\CPSC220\project_p7p4z\src\main\ui" />
+      <recent name="C:\Users\Harjasleen\Videos\CPSC220\project_p7p4z\src\main\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Project-Starter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="persistence" />
+      <option name="MAIN_CLASS_NAME" value="persistence.TestReader" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestShoppingApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui" />
+      <option name="MAIN_CLASS_NAME" value="ui.TestShoppingApp" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.TestUser" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in Project-Starter" />
+        <item itemvalue="JUnit.TestUser" />
+        <item itemvalue="JUnit.TestShoppingApp" />
+        <item itemvalue="JUnit.TestReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d0232ac-aaff-41c9-9d47-2a5958dbd12c" name="Default Changelist" comment="" />
+      <created>1602701649765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602701649765</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added Readme.md and classes and methods need for console based java Shopping Cart Application">
+      <created>1602727619851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602727619851</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Readme.md">
+      <created>1602727828311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602727828311</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Readme.md">
+      <created>1602727893694</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602727893694</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Readme.md">
+      <created>1602727926725</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602727926725</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added test cases">
+      <created>1602729363602</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602729363602</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added test cases">
+      <created>1602729751045</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602729751045</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added test cases">
+      <created>1602729997985</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602729997985</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added test cases">
+      <created>1603146593239</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603146593240</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added persistence layer,implementation for storing Data inside file and loading from file. Added unit tests">
+      <created>1604098559376</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604098559376</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added more coverage to tests">
+      <created>1604099886406</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604099886406</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fixed inputs from users in ShoppingApp">
+      <created>1604100194801</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604100194801</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixed comomments section">
+      <created>1604107249898</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604107249898</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Revert &quot;fixed comomments section&quot;&#10;&#10;This reverts commit 90866a5b">
+      <created>1604107864829</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604107864834</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added test cases">
+      <created>1605870041390</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605870041390</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added DashBoard, ItemPanel, GUI modified ShoppingApp, Main">
+      <created>1605896927575</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605896927575</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added DashBoard, ItemPanel, GUI modified ShoppingApp, Main">
+      <created>1605911611172</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605911611172</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Phase 3: GUI">
+      <created>1605917608262</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605917608262</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Phase 3: GUI">
+      <created>1605918653545</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605918653545</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Phase 4: Task 2, 3">
+      <created>1606352726360</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1606352726360</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Phase 4: Task 2, 3">
+      <created>1606352992551</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606352992551</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Phase 4: Task 2, 3">
+      <created>1606353858883</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1606353858883</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Phase 4: Task 2, 3">
+      <created>1606353932485</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606353932485</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Phase 4: Task 2, 3">
+      <created>1606354447203</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1606354447203</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Phase 4: Task 2">
+      <created>1606354624779</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1606354624779</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Phase 4: Task 3">
+      <created>1606354675248</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1606354675248</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/DataAbstractionITE1" />
+    </ignored-roots>
+    <MESSAGE value="Added Readme.md and classes and methods need for console based java Shopping Cart Application" />
+    <MESSAGE value="Added Readme.md" />
+    <MESSAGE value="Added persistence layer,implementation for storing Data inside file and loading from file. Added unit tests" />
+    <MESSAGE value="added more coverage to tests" />
+    <MESSAGE value="fixed inputs from users in ShoppingApp" />
+    <MESSAGE value="fixed comomments section" />
+    <MESSAGE value="Revert &quot;fixed comomments section&quot;&#10;&#10;This reverts commit 90866a5b" />
+    <MESSAGE value="Added test cases" />
+    <MESSAGE value="Added DashBoard, ItemPanel, GUI modified ShoppingApp, Main" />
+    <MESSAGE value="Phase 3: GUI" />
+    <MESSAGE value="Phase 4: Task 2, 3" />
+    <MESSAGE value="Phase 4: Task 2" />
+    <MESSAGE value="Phase 4: Task 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phase 4: Task 3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_Starter$TestShoppingApp.ic" NAME="TestShoppingApp Coverage Results" MODIFIED="1604097832443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$TestReader.ic" NAME="TestReader Coverage Results" MODIFIED="1604094322678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>persistence.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$All_in_Project_Starter.ic" NAME="All in Project-Starter Coverage Results" MODIFIED="1604099817895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
